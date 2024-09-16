@@ -4,7 +4,7 @@ import { useRef } from 'react'
 
 function App() {
   const playerRef = useRef(null)
-  const videoLink = "http://localhost:8000/uploads/courses/40fb060b-3eab-45fd-b2d8-04c66da8d48b/index.m3u8"
+  const videoLink = "http://localhost:8000/uploads/courses/6a578cb3-9c03-458e-80e4-a5b07f27e9b7/index.m3u8"
 
   const videoPlayerOptions = {
     controls: true,
